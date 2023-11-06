@@ -1,0 +1,35 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_portrait_operative_unknown"
+		texturefile = "gfx/leaders/operative_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+
+	spriteType = {
+		name = "GFX_portrait_unknown_female"
+		texturefile = "gfx/leaders/leader_unknown_female.dds"
+	}
+	
+	### SOV
+	spriteType = {
+		name = GFX_portrait_SOV_grigory_romanov
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Grigory_Romanov.dds"
+	}
+
+
+	### USA
+
+	spriteType = {
+		name = GFX_portrait_USA_bill_clinton
+		texturefile = "gfx/leaders/USA/Portrait_USA_Bill_Clinton.dds"
+	}
+
+	
+}

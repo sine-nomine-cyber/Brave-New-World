@@ -1,0 +1,16 @@
+characters={
+	USA_bill_clinton={
+		name=USA_bill_clinton
+		portraits={
+			civilian={
+				large=GFX_portrait_USA_bill_clinton
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			traits={ }
+			expire="2001.1.1.1"
+			id=-1
+		}
+	}
+}

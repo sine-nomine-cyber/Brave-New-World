@@ -1,0 +1,161 @@
+ideas = {
+
+    country = {
+        romanovs_red_parades = {
+            picture = sov_parade_1
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                land_morale = 0.10
+                political_power_cost = -0.05
+                conscription_factor = 0.05
+            }
+        }
+        politburo_influence = {
+            picture = sov_politburo_1
+            allowed = {
+                has_completed_focus = SOV_romanovs_rise
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                political_power_gain = 0.25
+                stability_weekly = -0.1
+            }
+        }
+        romanovs_militarization = {
+            picture = sov_military_buildup
+            allowed = {
+                has_completed_focus = SOV_romanovs_militarization
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                division_training_time = -0.10
+                military_factory_construction_speed = 0.10
+                military_factory_output = 0.10
+            }
+        }
+        the_romanov_doctrine = {
+            picture = sov_foreign_policy
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                justify_war_goal_time = -0.25
+                political_power_cost = -0.20
+            }
+        }
+        guardians_of_ideology = {
+            picture = sov_ideological_struggle
+            allowed = {
+                has_government = communism
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                partisans_effect_on_our_territory_factor = -0.15
+                drift_defence_factor = 0.15
+            }
+        }
+        romanovs_purge = {
+            picture = sov_purge
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                army_experience_gain = 0.05
+                navy_experience_gain = 0.05
+                air_experience_gain = 0.05
+                stability_weekly = -0.05
+            }
+        }
+        shadow_of_molotov = {
+            picture = sov_molotov_legacy
+            allowed = {
+                has_completed_focus = SOV_shadow_of_molotov
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                consumer_goods_factor = 0.05
+                research_time_factor = -0.05
+				stability_factor = 0.05
+            }
+        }
+        struggle_within = {
+            picture = sov_intrigue
+            allowed = {
+                always = yes
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                stability_weekly = -0.15
+                resistance_growth_on_our_territory_factor = 0.05
+            }
+        }
+        iron_curtain_reinforced = {
+            picture = sov_iron_curtain
+            allowed = {
+                has_completed_focus = SOV_iron_curtain_reinforced
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                political_power_gain = 0.10
+                subversive_activities_cost = -0.20
+            }
+        }
+        romanovs_arsenal = {
+            picture = sov_armaments
+            allowed = {
+                has_completed_focus = SOV_romanovs_arsenal
+            }
+            allowed_civil_war = {
+                always = yes
+            }
+            removal_cost = -1
+
+            modifier = {
+                land_equipment_research_speed = 0.10
+                air_equipment_research_speed = 0.10
+                naval_equipment_research_speed = 0.10
+            }
+        }
+    }
+}

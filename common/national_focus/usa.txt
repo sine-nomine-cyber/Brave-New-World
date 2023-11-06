@@ -1,0 +1,175 @@
+### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+### search_filters = {FOCUS_FILTER_USA_CONGRESS}
+	
+focus_tree = {
+    id = usa_focus
+
+    country = {
+        factor = 0
+
+        modifier = {
+            add = 10
+            tag = USA
+        }
+    }
+
+    default = no
+    focus = {
+        id = USA_tech_boom_and_bubble
+        icon = GFX_USA_focus_tech_boom
+        x = 0
+        y = 0
+
+        prerequisite = {}
+        mutually_exclusive = { }
+
+        cost = 10
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            add_political_power = 100
+            add_timed_idea = { 
+                idea = USA_tech_boom
+                days = 180
+            }
+        }
+    }
+
+    focus = {
+        id = USA_peace_process_progress
+        icon = GFX_USA_focus_peace_process
+        x = 1
+        y = 0
+
+        prerequisite = {}
+        mutually_exclusive = { }
+
+        cost = 8
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = USA_campaign_finance_reform
+        icon = GFX_USA_campaign_finance_reform
+        x = 0
+        y = 1
+
+        prerequisite = {focus = USA_tech_boom_and_bubble}
+        mutually_exclusive = { }
+
+        cost = 6
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            add_stability = 0.03
+            add_timed_idea = { 
+                idea = USA_campaign_reform_impact
+                days = 120
+            }
+        }
+    }
+
+    focus = {
+        id = USA_addressing_climate_change
+        icon = GFX_USA_focus_climate_change
+        x = 1
+        y = 1
+
+        prerequisite = {focus = USA_peace_process_progress}
+        mutually_exclusive = { }
+
+        cost = 7
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            add_stability = 0.04
+            add_timed_idea = { 
+                idea = USA_climate_action
+                days = 150
+            }
+        }
+    }
+
+    focus = {
+        id = USA_preparing_for_elections
+        icon = GFX_USA_focus_preparing_for_elections
+        x = 0
+        y = 2
+
+        prerequisite = {focus = USA_campaign_finance_reform}
+        prerequisite = {focus = USA_addressing_climate_change}
+        mutually_exclusive = { }
+
+        cost = 9
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            country_event = {id = usa_election.1}
+        }
+    }
+
+    focus = {
+        id = USA_end_of_an_era
+        icon = GFX_USA_focus_end_of_an_era
+        x = 0
+        y = 3
+
+        prerequisite = {focus = USA_preparing_for_elections}
+        mutually_exclusive = { }
+
+        cost = 10
+        ai_will_do = {
+            factor = 1
+        }
+
+        bypass = {
+        }
+        cancel_if_invalid = yes
+        continue_if_invalid = no
+        completion_reward = {
+            add_political_power = 150
+            add_stability = 0.05
+        }
+    }
+}

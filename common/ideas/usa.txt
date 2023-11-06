@@ -1,0 +1,192 @@
+ideas = {
+	country = {
+		USA_tech_boom = {
+			picture = usa_technology_boom
+			
+			allowed = {
+				always = yes
+			}
+			
+			research_bonus = {
+				electronics = 0.15
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				research_speed = 0.10
+				production_efficiency_cap = 0.05
+				
+			}
+		}
+		
+		USA_peacekeeping_missions = {
+			picture = usa_peacekeeping
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				planning_speed = 0.05
+				send_volunteers_tension = -0.35
+				political_power_cost = 1
+			}
+		}
+		
+		USA_nato_expansion = {
+			picture = usa_nato
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.25
+				guarantee_tension = -0.2
+			}
+		}
+		
+		USA_balkans_engagement = {
+			picture = usa_balkans_intervention
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				air_superiority = 0.05
+				army_org_regain_rate = -0.05
+			}
+		}
+		
+		USA_cyber_security_initiative = {
+			picture = usa_cyber_warfare
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				counter_intelligence = 0.10
+				encryption = 0.05
+			}
+		}
+		
+		USA_wto_commitments = {
+			picture = usa_trade_relations
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				trade_opinion_factor = 0.10
+				trade_cost = -0.05
+			}
+		}
+		
+		USA_education_reform = {
+			picture = usa_education
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				population_growth = 0.05
+				research_speed = 0.05
+			}
+		}
+		
+		USA_healthcare_debate = {
+			picture = usa_healthcare
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				political_power_cost = 0.25
+			}
+		}
+		
+		USA_fiscal_responsibility = {
+			picture = usa_budget_surplus
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				government_administration_cost = -0.10
+				inflation_reduction = 0.02
+			}
+		}
+		
+		USA_space_exploration = {
+			picture = usa_space_program
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				research_speed = 0.05
+				rocket_site_construction_speed = 0.10
+			}
+		}
+	
+		USA_dot_com_bubble = {
+			picture = usa_economic_downturn
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				research_time_factor = 0.05
+				consumer_goods_factor = 0.10
+				factory_output = -0.10
+				construction_speed = -0.05
+			}
+		}
+	
+		
+		USA_yk_fears = {
+				picture = usa_technological_anxiety
+			
+			allowed = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.15
+			}
+		}
+
+
+	}
+}
