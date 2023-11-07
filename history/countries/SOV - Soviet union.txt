@@ -3,19 +3,6 @@
 #### NO STEP BACK
 ####
 
-
-#You don't want Russian party names? Just remove these lines
-set_party_name = {
-	ideology = communism
-	long_name = SOV_communism_party_russian_long
-	name = SOV_communism_party_russian
-}
-set_party_name = {
-	ideology = fascism
-	long_name = SOV_fascism_party_russian_long
-	name = SOV_fascism_party_russian
-}
-
 #COUNTRY LEADERS
 recruit_character = SOV_grigory_romanov
 
@@ -186,15 +173,24 @@ add_ideas = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = communist
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
-	democratic = 10
-	fascism = 2
-	communism = 88
+	communist = 74
+	ultranationalism = 0
+	socialist = 12
+	progressivism = 6
+	liberalism = 4
+
+	conservatism = 4
+	paternalism = 0
+	despotism = 0
+	fascism = 0
+	national_socialism = 0
 }
 
 create_faction = Comintern

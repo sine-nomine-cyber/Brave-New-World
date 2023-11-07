@@ -1,0 +1,249 @@
+﻿l_english:
+communist: "Communism"
+socialist: "Socialism"
+progressivism: "Progressivism"
+liberalism: "Liberalism"
+liberal_conservatism: "Liberal Conservatism"
+conservatism: "Conservatism"
+paternalism: "Paternalism"
+despotism: "Despotism"
+ultranationalism: "Ultranationalism"
+fascism: "Fascism"
+national_socialism: "National Socialism"
+
+communist_noun: "Communism"
+socialist_noun: "Socialism"
+progressivism_noun: "Progressivism"
+liberalism_noun: "Liberalism"
+liberal_conservatism_noun: "Liberal Conservatism"
+conservatism_noun: "Conservatism"
+paternalism_noun: "Paternalism"
+despotism_noun: "Despotism"
+ultranationalism_noun: "Ultranationalism"
+fascism_noun: "Fascism"
+national_socialism_noun: "National Socialism"
+
+communist_desc: "Communism"
+socialist_desc: "Socialism"
+progressivism_desc: "Progressivism"
+liberalism_desc: "Liberalism"
+liberal_conservatism_desc: "Liberal Conservatism"
+conservatism_desc: "Conservatism"
+paternalism_desc: "Paternalism"
+despotism_desc: "Despotism"
+ultranationalism_desc: "Ultranationalism"
+fascism_desc: "Fascism"
+national_socialism_desc: "National Socialism"
+
+communist_subtype_desc: "Communism is a polarizing ideology, to say the least. As decried as it is praised, it can safely be said to have been, along with National Socialism, one of the defining ideologies of the 20th century so far. But what exactly is communism?\n\nDescended from the thought of Marx and Engels, and claiming the heritage of Lenin's revolution, its end goal is to establish a classless, stateless, humane society based on common ownership of the means of production and free distribution thereof according to one's needs. Its adherents are firm believers in the concept of class struggle, and aim to overthrow the bourgeoisie to establish a dictatorship of the proletariat - a society and government where the working class and the state are synonymous.\n\nWhile some movements believe in electoralism, most strains of communism are fiercely revolutionary, and tirelessly advocate for the coming of said revolution through 'praxis', or direct action. In this regard, they consciously emulate Lenin and reject the prospect of reform or compromise. Of course, critics abound from all sides; from people claiming that human nature is inherently individualistic and selfish, to socialists decrying the means employed to bring about the proletarian dictatorship, communism has no shortage of detractors. And yet, 'Reds' of all stripes fight on, for they know that once the workers of the world unite, they have nothing to lose but their chains."
+socialist_subtype_desc: "Socialism is a lot of different things, depending on who you ask. Whether revolutionary or reformist, and whether Marxist or utopian, it is and always has been of many different shapes. One thing remains, however: it is an ideology by the people, for the people.\n\nOne of the main characteristics of socialism is, of course, the social ownership of the means of production. While it may either be introduced gradually over time or more immediately in the case of a revolution, it is one of its stated goals, as adherents of the ideology believe that it is a way to create a juster, fairer economy, built for the many instead of for the few. Also important to socialism is the establishment of workplace democracy, giving the worker a say in how his business operates, and it is often coupled with a greater-than-usual emphasis on political democracy, whether it be electoral or soviet.\n\nSocialism has been, through the ages, equally praised as it has been reviled. And yet, it marches on. Despite the hardships, and despite the setbacks, socialism continues its almost unrelenting course, aiming to free the worker and the common man from the tyranny of capitalism."
+progressivism_subtype_desc: "A moderate response to the excesses of capitalism, Progressivism, composed of moderate social democrats and center left progressives, intends to be a middle ground between social liberalism and social democracy, with a focus on economic efficiency, a moderate welfare state, and a major focus on social justice. Pragmatic and willing to compromise, Progressivism believes in gradual change over time, with a focus on making capitalism more humane while allowing for its best aspects to shrine through.\n\nProgressivism believes in allowing room for the free market to take over while maintaining a welfare state intended to catch those who would fall through the cracks. Rather than focusing on economic equality, Progressivism intends to fight against institutional problems that harm equality of opportunity. Racism, sexism and other 'isms' are the main enemy of Progressivism, who believe that it is the government's place to protect the weak.\n\nEconomically, Progressivism believes that government management is inefficient and that, rather, the private market, with public oversight, could be beneficial to both parties. This extends to matters of infrastructure, healthcare, and even basic government operations. With this efficiency, poverty can be eliminated through saved welfare spending and opportunities for a better life."
+liberalism_subtype_desc: "The seed that was planted in the halls of ancient Athens, began to sprout with the American Revolution and finally blossomed into the world after the Congress of Vienna; the deep meaning behind the word Liberalism, rooted in the word "Liberty", has arguably become one, if not the most transformative political philosophies in history.\n\nOn a fundamental level, Liberalism proclaims the self-evident truth that all men are created equal, guaranteed the right to equality under the law, representation , accountability, and that they are entitled to these rights regardless of upbringing, class or country of origin, and while the subject of who qualifies for which has -and in many places still is- a longstanding subject of debate, civilizations who adhere to the principles of Liberalism on a base level all maintain an uncompromising loyalty to the principle of equality and freedom.\n\nThis fundamental truth makes virtually all forms of liberalism the de-facto arch enemy of fascism and totalitarianism and their fanatic cohorts, aspiring to be the dominant political compass of the world in defiance of the New World Order. While the cause of liberalism suffered a near-fatal blow in its defeat in the Second World War, with the former great liberal democracies of France and Britain having fallen to the Nazi jackboot, it lives on in the liberal democracies of the Western Hemisphere, and even if they, or the whole world itself even, crushed, it will never be stamped out of the human consciousness.\n\nSo long as a single human being possesses a will that is their own, the torch of liberalism shall never be extinguished."
+liberal_conservatism_subtype_desc: "In a world filled to the brim with radicals, extremists, and vagabonds, the rational man is perhaps humanity's greatest hope. It takes discipline and a strong will to maintain the values of democracy, that brilliant idea forged on the hills of Athens, and the Liberal Conservatives are those holding the thin line that is keeping the torch of liberty lit.\n\nUnlike pure conservatives, these people are more open to social change in their society, as long as it can be tempered and controlled by the powers that be, adapting their position as needed for governance. They generally support free market economics, although individual practitioners might differ on the matter of state intervention in the economy as a means to do good for society and limit corporate power. Whether or not these moderates will be able to survive the rest of the 20th century, with all of its absolutist violence and totalitarianism, remains up in the air."
+conservatism_subtype_desc: "Be it a political ideology or cultural philosophy, Conservatism, as it has been defined, orientates itself around the ideals of traditionalism and a protection dedicated to preserving and refining societal and cultural institutions according to accepted societal norms, and while it traditionally has favored the right-wing of the political theater, it is not inherently opposed to working with more liberal elements in a given forum, though these are somewhat rare. Conservatives often endorse laissez-faire free market economics as a matter of course, and generally prefer fiscal austerity over increased government spending, but this is not always strictly the case.\n\nIn light of the collapse of what once been known as the great Liberal Democracies of France and Britain to the Fascist menace in Europe, Conservatism has seen a resurgence in the parts of the world hitherto untouched by Fascism, casting itself as the last line of defense for democracy against an increasingly totalitarian world.\n\nWhile many conservative-leaning politicians and governments are not against reform, many often find themselves at odds with their more liberal and progressive contemporaries in the public arena."
+paternalism_subtype_desc: "The political philosophy broadly falling under the denomination of Paternalism has existed as the principal ethic for myriad forms of governments throughout millennia, from Despots, to Monarchs, to Emperors. The ideology behind paternalistic forms of government paints the nascent rise in liberal political thought as a cause for injustices and instability against age-old cultural and political norms, institutions, and truths, and seeks to counter said influence through the restriction of rights and liberties, either temporarily or perhaps even permanently, as a means of preserving the nation, its society and culture for a bright and better future, likening the role of the State towards the welfare of its citizens as like the guidance from a parent to their children.\n\nThe ideological similarities to the numerous autocratic regimes currently dominating Europe and Asia in this regard are hard to ignore; both liberal and conservative forms of democracy generally abhor the dictatorialism perceived in Paternalistic forms of government, believing it to be little else but an embryonic form of emerging Fascist political thought, or a thinly veiled imitation of it. That said, few within Paternalistic societies are likely to care for the opinions of their neighbors, and will often pose stiff resistance, politically or militarily, to any attempt, internal or external, to supersede that."
+despotism_subtype_desc: "Despotism is a wide-reaching term that encompasses governmental systems where power is concentrated on a single individual or group of individuals. These people run the nation according to their own will, and almost always make heavy use of the military and the police to keep their citizens from revolting. Despotist governments very rarely tolerate other ideologies and when they do they have systems in place to prevent those groups from ever gaining power. Opposition forces are treated as enemies of the state and heavily repressed, and if elections are ever held they are either completely rigged lies or for positions with no power.\n\nDespotist governments also usually wish to establish control or dominance over other nations, and maintain extensive militaries to use in conquest and to protect the regime. While Despotists can use nationalism as a reason for their authority, they are not as nationalistic as Fascists and National Socialists and nationalism is usually more of an excuse than any real part of the agenda."
+ultranationalism_subtype_desc: "Ultranationalism is a vicious blend of rabid militarism and fervent devotion to the nation above all else. Ultranationalists are keen to purge their nations of perceived foreign influence of any sort. Thus they favour autarky, stratification and a strong military involvement in everyday affairs to insure that the country is kept independent and "safe from outside corruption". The idea of a glorious state is the key to all things for the ultranationalist, and they will call upon images from the past to stir up and inspire in combination with a paranoid and savage hatred of the other and the outsider. Racism and other forms of discrimination are weaved into all parts of life, to further raise up and separate the ideal countryman from those that do not fit in. In order to make truth of their promises of the "great nation", ultramilitarism presents the military as the ultimate tool for prosperity and greatness. Service to the state in this manner is therefore mandatory for most and deeply glorified as a part of the nation's triumph over the rest of the world. Ultranationalism has often manifested as part of a desire for revenge against foreign enemies and uses this desire to drive the nation forward. While some differences are known to exist between each ultranationalist movement, they never differ in their mad desperation to see eternal glory rain down upon their lands."
+fascism_subtype_desc: "Of the ideologies that emerged in the tumult following the First World War, the one that proved to have the greatest success in achieving and maintaining power in Europe was the ideology known as fascism. Borne out of the beliefs of disillusioned communists and authoritarian nationalists, fascism is often characterized as being "third positionist" due to its ideological inspiration from both the radical left and right. Although traces of Marxist doctrine can still be found buried in its worldview - it embraces a producer-parasite dialectic, but between nations instead of economic classes - its virulent nationalism puts it at odds with the internationalist mindset of socialism, and it inevitably led to violent conflict within Germany, Spain, and Italy in the interbellum decades. In all cases, the fascist parties eventually won out and forced their socialist rivals underground.\n\nFascism's most defining qualities come from its slavish devotion to the state. The government, often under the control of a single strongman, serves as the final arbitrator and authority in the land. Religious institutions, trade unions, private businesses, and the like are permitted to exist in some limited form, though their subservience to the state's authority is made clear. The government also upholds a national mythos, spinning tales of a noble people with past glories that were unfairly stripped from them, and demands that the populace find strength in unity and reclaim what was lost. They sneer at liberal nations for decadent complacency and socialist nations for succumbing to degeneracy - yet paradoxically view those outsiders as a looming threat who are posed to destroy everything they hold dear."
+national_socialism_subtype_desc: "National Socialism, the iron fist clutching the heart of Europe for nearly thirty years, refers to the various styles of fascism which incorporate fervent racism, extreme militarism, and a totalitarian, one-party state where individuals are subordinated for the common good. It is distinct from other forms of fascism in its core tenets of brutally enforced racial hierarchy and aggressive, genocidal expansionism as "living space" for its nation's peoples.\n\nIn the German sense, Nazism holds several key tenants close to its black heart - anti-Semitism ingrained in every political action; A deep disdain for traditional liberal democracies, the parliamentary system and capitalism; and finally its strong hatred for Communism. While most National Socialist nations are either with or direct collaborators with the German Reich, the term is now often used to describe a variety of fascist movements around the world which echo Nazism's foundations, each with their own unique attributes, such as radical Japanese imperialism."
+
+#Subideologies
+communist_arab_socialism_subtype: "Arab Socialism"
+communist_maoism_subtype: "Maoism"
+communist_marxism_leninism_subtype: "Marxism-Leninism"
+communist_revolutionary_marxism_subtype: "Revolutionary Marxism"
+communist_stalinism_subtype: "Stalinism"
+communist_trotskyism_subtype: "Trotskyism"
+
+
+communist_arab_socialism_subtype_desc: "In the heart of the arid expanse, where ancient sands whisper tales of a time before oil, a fervent strain of socialism was born, melding the fiery passion of Arab nationalism with the egalitarian dreams of communism. Arab Socialism rose as a thunderous call for unity, seeking to fuse the rich cultural tapestry of the Arab world with the unifying force of socialist ideology. It champions a socialism tailored to the complexities of Arab societies, integrating pan-Arab unity, state-led economic planning, and the eradication of neocolonial influence. /n/nEmerging from the anticolonial struggles and the quest for modernization, this strain of socialism views the vast, interconnected Arab world as a single entity fragmented by artificial borders. By seizing control of the means of production, from oil wells to the fertile crescent, Arab Socialists aim to redistribute wealth across the Arab nations, pursuing a future where the shared heritage of the Arab people forms the bedrock of a socialist society that is both modern and authentically Arab."
+
+communist_maoism_subtype_desc: "Maoism, or Marxism-Leninism-Maoism, stands as a bastion of revolutionary zeal, born amidst the rugged mountains and rice fields of China, under the watchful guidance of Chairman Mao Zedong. It is an ideology that turns the rural peasantry into the vanguard, opposing the conventional Marxist focus on the urban proletariat as the sole herald of revolution. Maoism embraces the concept of "People's War," believing that a continuous revolution is essential to achieve and preserve a true communist society. /n/nMaoism asserts the necessity of cultural revolution to uproot bourgeois elements entrenched in society, cultivating a socialist culture in their stead. This subtype of communism looks beyond the horizon, seeking to inspire peasant and worker alike to become active participants in the collective march towards a classless utopia, where the egalitarian principles of Marxism merge with the enduring legacy of China's own revolutionary history."
+
+communist_marxism_leninism_subtype_desc: "Marxism-Leninism stands as the orthodox codification of communist doctrine, a rigorous blend of Marx's theoretical framework with Lenin's practical adaptations under the harsh Russian winters. It underscores the role of a centralized vanguard party as the instrument to incite and lead the proletarian revolution, propelling society through the stages of socialism to the eventual zenith of communism. /n/nThis ideology is unwavering in its belief in a dictatorial state as a temporary necessity, the "dictatorship of the proletariat," which must wither away once its purpose of uprooting capitalism is fulfilled. Marxism-Leninism envisions a world where the chains of exploitation are broken, and the state serves as the crucible for a classless, stateless global society, built through the iron will and unwavering resolve of the party."
+
+communist_revolutionary_marxism_subtype_desc: "Revolutionary Marxism stands unapologetically for the upheaval of the capitalist system through direct, often militant action. It harkens back to the radical roots of Marx and Engels, eschewing reformist approaches for the furnace of revolution to forge a society free from class distinctions. Its adherents believe in the inevitability of a proletarian uprising, spurred by the inherent contradictions within capitalism itself. /n/nIt is an ideology that sings the song of international solidarity, echoing the rallying cry that workers of the world have nothing to lose but their chains. Revolutionary Marxists organize on the fringes of the political spectrum, ever ready to ignite the spark of rebellion, and drive humanity forward to seize its destiny beyond the oppressive structures of the present."
+
+communist_stalinism_subtype_desc: "Stalinism is the iron-willed iteration of communist thought, synonymous with the rule of Joseph Stalin and characterized by a stringent centralized command economy, aggressive industrialization, and an uncompromising suppression of opposition. It positions the state as the central architect of socialist construction, exerting absolute control over society's political, economic, and social life to safeguard and advance towards the envisioned communist future. /n/nUnder Stalinism, the state metamorphoses into a machine of immense power, with the belief that only through such concentration of authority can the external threats of capitalism and imperialism be vanquished, and internal class enemies be neutralized. The creed of Stalinism proclaims that through this autocratic crucible, the birth of a new, invulnerable socialist society is inevitable, standing as a colossus upon the world stage."
+
+communist_trotskyism_subtype_desc: "Trotskyism, the legacy of Leon Trotsky, positions itself as the embodiment of unadulterated Marxist thought, championing the cause of permanent revolution. It holds a torch to the ideal that the revolution must be an unceasing endeavor, spanning across national borders and continuously evolving until global capitalism is dethroned and a true proletarian democracy is established worldwide. /n/nThis brand of communism critiques the notion of socialism in one country, as advocated by Stalin, promoting instead a coordinated international struggle for socialism. Trotskyists organize with fervor, seeking to kindle the spirit of political dissent and revolution in every corner of the globe, crafting a narrative where the working class rises to become the master of its own destiny, unshackled from the dictates of both capitalist and bureaucratic chains."
+
+
+#|=====[ Duplicates ]=====|#
+### National Socialism ###
+national_socialism_1:0 "$national_socialism$"
+national_socialism_1_noun:0 "§Y[?national_socialism_1_var.GetTokenLocalizedKey]§!"
+national_socialism_1_desc:0 "$national_socialism$"
+national_socialism_1_subtype_desc:0 "$national_socialism_subtype_desc$"
+national_socialism_1_drift:0 "Daily §Y[?national_socialism_1_var.GetTokenLocalizedKey]§! Support"
+
+national_socialism_2:0 "$national_socialism$"
+national_socialism_2_noun:0 "§Y[?national_socialism_2_var.GetTokenLocalizedKey]§!"
+national_socialism_2_desc:0 "$national_socialism$"
+national_socialism_2_subtype_desc:0 "$national_socialism_subtype_desc$"
+national_socialism_2_drift:0 "Daily §Y[?national_socialism_2_var.GetTokenLocalizedKey]§! Support"
+
+national_socialism_3:0 "$national_socialism$"
+national_socialism_3_noun:0 "§Y[?national_socialism_3_var.GetTokenLocalizedKey]§!"
+national_socialism_3_desc:0 "$national_socialism$"
+national_socialism_3_subtype_desc:0 "$national_socialism_subtype_desc$"
+national_socialism_3_drift:0 "Daily §Y[?national_socialism_3_var.GetTokenLocalizedKey]§! Support"
+
+national_socialism_4:0 "$national_socialism$"
+national_socialism_4_noun:0 "§Y[?national_socialism_4_var.GetTokenLocalizedKey]§!"
+national_socialism_4_desc:0 "$national_socialism$"
+national_socialism_4_subtype_desc:0 "$national_socialism_subtype_desc$"
+national_socialism_4_drift:0 "Daily §Y[?national_socialism_4_var.GetTokenLocalizedKey]§! Support"
+
+### Fascism ###
+fascism_1:0 "$fascism$"
+fascism_1_noun:0 "§Y[?fascism_1_var.GetTokenLocalizedKey]§!"
+fascism_1_desc:0 "$fascism$"
+fascism_1_subtype_desc:0 "$fascism_subtype_desc$"
+fascism_1_drift:0 "Daily §Y[?fascism_1_var.GetTokenLocalizedKey]§! Support"
+
+fascism_2:0 "$fascism$"
+fascism_2_noun:0 "§Y[?fascism_2_var.GetTokenLocalizedKey]§!"
+fascism_2_desc:0 "$fascism$"
+fascism_2_subtype_desc:0 "$fascism_subtype_desc$"
+fascism_2_drift:0 "Daily §Y[?fascism_2_var.GetTokenLocalizedKey]§! Support"
+
+fascism_3:0 "$fascism$"
+fascism_3_noun:0 "§Y[?fascism_3_var.GetTokenLocalizedKey]§!"
+fascism_3_desc:0 "$fascism$"
+fascism_3_subtype_desc:0 "$fascism_subtype_desc$"
+fascism_3_drift:0 "Daily §Y[?fascism_3_var.GetTokenLocalizedKey]§! Support"
+
+fascism_4:0 "$fascism$"
+fascism_4_noun:0 "§Y[?fascism_4_var.GetTokenLocalizedKey]§!"
+fascism_4_desc:0 "$fascism$"
+fascism_4_subtype_desc:0 "$fascism_subtype_desc$"
+fascism_4_drift:0 "Daily §Y[?fascism_4_var.GetTokenLocalizedKey]§! Support"
+
+### Ultranationalism ###
+ultranationalism_1:0 "$ultranationalism$"
+ultranationalism_1_noun:0 "§Y[?ultranationalism_1_var.GetTokenLocalizedKey]§!"
+ultranationalism_1_desc:0 "$ultranationalism$"
+ultranationalism_1_subtype_desc:0 "$ultranationalism_subtype_desc$"
+ultranationalism_1_drift:0 "Daily §Y[?ultranationalism_1_var.GetTokenLocalizedKey]§! Support"
+
+ultranationalism_2:0 "$ultranationalism$"
+ultranationalism_2_noun:0 "§Y[?ultranationalism_2_var.GetTokenLocalizedKey]§!"
+ultranationalism_2_desc:0 "$ultranationalism$"
+ultranationalism_2_subtype_desc:0 "$ultranationalism_subtype_desc$"
+ultranationalism_2_drift:0 "Daily §Y[?ultranationalism_2_var.GetTokenLocalizedKey]§! Support"
+
+### Despotism ###
+despotism_1:0 "$despotism$"
+despotism_1_noun:0 "§Y[?despotism_1_var.GetTokenLocalizedKey]§!"
+despotism_1_desc:0 "$despotism$"
+despotism_1_subtype_desc:0 "$despotism_subtype_desc$"
+despotism_1_drift:0 "Daily §Y[?despotism_1_var.GetTokenLocalizedKey]§! Support"
+
+despotism_2:0 "$despotism$"
+despotism_2_noun:0 "§Y[?despotism_2_var.GetTokenLocalizedKey]§!"
+despotism_2_desc:0 "$despotism$"
+despotism_2_subtype_desc:0 "$despotism_subtype_desc$"
+despotism_2_drift:0 "Daily §Y[?despotism_2_var.GetTokenLocalizedKey]§! Support"
+
+despotism_3:0 "$despotism$"
+despotism_3_noun:0 "§Y[?despotism_3_var.GetTokenLocalizedKey]§!"
+despotism_3_desc:0 "$despotism$"
+despotism_3_subtype_desc:0 "$despotism_subtype_desc$"
+despotism_3_drift:0 "Daily §Y[?despotism_3_var.GetTokenLocalizedKey]§! Support"
+
+despotism_4:0 "$despotism$"
+despotism_4_noun:0 "§Y[?despotism_4_var.GetTokenLocalizedKey]§!"
+despotism_4_desc:0 "$despotism$"
+despotism_4_subtype_desc:0 "$despotism_subtype_desc$"
+despotism_4_drift:0 "Daily §Y[?despotism_4_var.GetTokenLocalizedKey]§! Support"
+
+### Paternalism ###
+paternalism_1:0 "$paternalism$"
+paternalism_1_noun:0 "§Y[?paternalism_1_var.GetTokenLocalizedKey]§!"
+paternalism_1_desc:0 "$paternalism$"
+paternalism_1_subtype_desc:0 "$paternalism_subtype_desc$"
+paternalism_1_drift:0 "Daily §Y[?paternalism_1_var.GetTokenLocalizedKey]§! Support"
+
+paternalism_2:0 "$paternalism$"
+paternalism_2_noun:0 "§Y[?paternalism_2_var.GetTokenLocalizedKey]§!"
+paternalism_2_desc:0 "$paternalism$"
+paternalism_2_subtype_desc:0 "$paternalism_subtype_desc$"
+paternalism_2_drift:0 "Daily §Y[?paternalism_2_var.GetTokenLocalizedKey]§! Support"
+
+### Conservatism ###
+conservatism_1:0 "$conservatism$"
+conservatism_1_noun:0 "§Y[?conservatism_1_var.GetTokenLocalizedKey]§!"
+conservatism_1_desc:0 "$conservatism$"
+conservatism_1_subtype_desc:0 "$conservatism_subtype_desc$"
+conservatism_1_drift:0 "Daily §Y[?conservatism_1_var.GetTokenLocalizedKey]§! Support"
+
+conservatism_2:0 "$conservatism$"
+conservatism_2_noun:0 "§Y[?conservatism_2_var.GetTokenLocalizedKey]§!"
+conservatism_2_desc:0 "$conservatism$"
+conservatism_2_subtype_desc:0 "$conservatism_subtype_desc$"
+conservatism_2_drift:0 "Daily §Y[?conservatism_2_var.GetTokenLocalizedKey]§! Support"
+
+### Liberalism ###
+liberalism_1:0 "$liberalism$"
+liberalism_1_noun:0 "§Y[?liberalism_1_var.GetTokenLocalizedKey]§!"
+liberalism_1_desc:0 "$liberalism$"
+liberalism_1_subtype_desc:0 "$liberalism_subtype_desc$"
+liberalism_1_drift:0 "Daily §Y[?liberalism_1_var.GetTokenLocalizedKey]§! Support"
+
+liberalism_2:0 "$liberalism$"
+liberalism_2_noun:0 "§Y[?liberalism_2_var.GetTokenLocalizedKey]§!"
+liberalism_2_desc:0 "$liberalism$"
+liberalism_2_subtype_desc:0 "$liberalism_subtype_desc$"
+liberalism_2_drift:0 "Daily §Y[?liberalism_2_var.GetTokenLocalizedKey]§! Support"
+
+### Progressivism ###
+progressivism_1:0 "$progressivism$"
+progressivism_1_noun:0 "§Y[?progressivism_1_var.GetTokenLocalizedKey]§!"
+progressivism_1_desc:0 "$progressivism$"
+progressivism_1_subtype_desc:0 "$progressivism_subtype_desc$"
+progressivism_1_drift:0 "Daily §Y[?progressivism_1_var.GetTokenLocalizedKey]§! Support"
+
+progressivism_2:0 "$progressivism$"
+progressivism_2_noun:0 "§Y[?progressivism_2_var.GetTokenLocalizedKey]§!"
+progressivism_2_desc:0 "$progressivism$"
+progressivism_2_subtype_desc:0 "$progressivism_subtype_desc$"
+progressivism_2_drift:0 "Daily §Y[?progressivism_2_var.GetTokenLocalizedKey]§! Support"
+
+### Socialism ###
+socialist_1:0 "$socialist$"
+socialist_1_noun:0 "§Y[?socialist_1_var.GetTokenLocalizedKey]§!"
+socialist_1_desc:0 "$socialist$"
+socialist_1_subtype_desc:0 "$socialist_subtype_desc$"
+socialist_1_drift:0 "Daily §Y[?socialist_1_var.GetTokenLocalizedKey]§! Support"
+
+socialist_2:0 "$socialist$"
+socialist_2_noun:0 "§Y[?socialist_2_var.GetTokenLocalizedKey]§!"
+socialist_2_desc:0 "$socialist$"
+socialist_2_subtype_desc:0 "$socialist_subtype_desc$"
+socialist_2_drift:0 "Daily §Y[?socialist_2_var.GetTokenLocalizedKey]§! Support"
+
+### Communism ###
+communist_1:0 "$communist$"
+communist_1_noun:0 "§Y[?communist_1_var.GetTokenLocalizedKey]§!"
+communist_1_desc:0 "$communist$"
+communist_1_subtype_desc:0 "$communist_subtype_desc$"
+communist_1_drift:0 "Daily §Y[?communist_1_var.GetTokenLocalizedKey]§! Support"
+
+communist_2:0 "$communist$"
+communist_2_noun:0 "§Y[?communist_2_var.GetTokenLocalizedKey]§!"
+communist_2_desc:0 "$communist$"
+communist_2_subtype_desc:0 "$communist_subtype_desc$"
+communist_2_drift:0 "Daily §Y[?communist_2_var.GetTokenLocalizedKey]§! Support"
+
+communist_3:0 "$communist$"
+communist_3_noun:0 "§Y[?communist_3_var.GetTokenLocalizedKey]§!"
+communist_3_desc:0 "$communist$"
+communist_3_subtype_desc:0 "$communist_subtype_desc$"
+communist_3_drift:0 "Daily §Y[?communist_3_var.GetTokenLocalizedKey]§! Support"
+
+communist_4:0 "$communist$"
+communist_4_noun:0 "§Y[?communist_4_var.GetTokenLocalizedKey]§!"
+communist_4_desc:0 "$communist$"
+communist_4_subtype_desc:0 "$communist_subtype_desc$"
+communist_4_drift:0 "Daily §Y[?communist_4_var.GetTokenLocalizedKey]§! Support"
