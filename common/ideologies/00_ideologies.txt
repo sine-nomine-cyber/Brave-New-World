@@ -96,6 +96,7 @@ ideologies = {
 		types = {
 			despotism_subtype = {}
 			
+			### In Brave New World
 			despotism_military_junta_subtype = { can_be_randomly_selected = no }
 			despotism_theocracy_subtype = { can_be_randomly_selected = no }
 			despotism_personalistic_dictatorship_subtype = { can_be_randomly_selected = no }
@@ -118,13 +119,13 @@ ideologies = {
 	paternalism = {
 		types = {
 			paternalism_subtype = {}
-			
+			### In Brave New World
 			paternalism_controlled_democracy_subtype = { can_be_randomly_selected = no }
 			paternalism_oligarchy_subtype = { can_be_randomly_selected = no }
 			paternalism_kemalism_subtype = { can_be_randomly_selected = no }
 			
 			
-
+			# NOT Yet in BNW
 			paternalism_national_conservatism_subtype = { can_be_randomly_selected = no }
 			paternalism_social_nationalism_subtype = { can_be_randomly_selected = no }
 			paternalism_stratocracy_subtype = { can_be_randomly_selected = no }
@@ -281,6 +282,7 @@ ideologies = {
 		types = {
 			communist_subtype = {}
 
+			### In Brave New Worlds
 			communist_arab_socialism_subtype = { can_be_randomly_selected = no }
 			communist_maoism_subtype = { can_be_randomly_selected = no }
 			communist_marxism_leninism_subtype = { can_be_randomly_selected = no }
